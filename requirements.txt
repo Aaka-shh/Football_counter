@@ -1,0 +1,13 @@
+ultralytics==8.3.223
+opencv-python
+numpy
+pandas
+scipy
+matplotlib
+pillow
+requests
+psutil
+torch
+torchvision
+deep-sort-realtime
+cvzone
